@@ -1,3 +1,5 @@
+## 🚀 Next 12 Boilerplate
+
 This is a [Next.js](https://nextjs.org/) boilerplate built as one of the projects from the course [React Avançado](https://reactavancado.com.br/). 
 
 Where I am mastering my knowledge of React, Next.js, and SDLC (Software Development Life Cycle).
