@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) boilerplate developed in [React Avançado](https://reactavancado.com.br/) Course.
+This is a [Next.js](https://nextjs.org/) boilerplate built as one of the projects from the course [React Avançado](https://reactavancado.com.br/). 
+![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg) 
+Where I am mastering my knowledge of React, Next.js, and SDLC (Software Development Life Cycle)
+It can be used to kickstart a Next.js project with some additional configurations.
 
 ## What is inside?
 
